@@ -25,16 +25,25 @@ Analysis 4: Determined the maximum number of late trains per month in 2024 for A
 # What I Learned
 Analysis 1: The boxplots show that off-peak trains had the highest number of cancellations, while AM and PM peak cancellations were relatively low but had outliers. This suggests that off-peak operations may need additional attention.
 
-Recommendation: MTA should consider strategies to reduce off-peak cancellations (prepare for bad weather), as they impact many passengers and could improve overall service reliability.
-
 Analysis 2: The horizontal bar chart shows that off-peak trains experience the most delays due to trespassers.
-
-Recommendation: MTA should increase security checks during off-peak hours to ensure passengers have valid tickets, helping reduce intentional delays and improve overall punctuality.
 
 Analysis 3: The grouped bar chart shows AM and PM peak trains are more likely to be cancelled than terminated, meaning trains often stop mid-route rather than failing to depart. Many factors contribute to cancellations, including operational constraints and staffing.
 
-Recommendation: MTA should consider hiring more conductors or expanding track capacity to reduce cancellations during peak hours, ensuring more trains can complete their routes even if delays occur on one track.
-
 Analysis 4: The line chart shows that AM peak trains experienced a significant increase in lateness in December 2024, likely due to weather-related conditions.
 
-Recommendation: MTA should prepare in advance for potential weather-related disruptions during AM peak hours, such as adjusting staffing or operational plans, to reduce delays and improve service during rush hour.
+# Course of Action
+Recommendation 1: MTA should consider strategies to reduce off-peak cancellations (prepare for bad weather), as they impact many passengers and could improve overall service reliability.
+
+<img width="897" height="663" alt="Image" src="https://github.com/user-attachments/assets/58b43434-17dc-42ea-bb9f-957ac54f4b6e" />
+
+Recommendation 2: MTA should increase security checks during off-peak hours to ensure passengers have valid tickets, helping reduce intentional delays and improve overall punctuality.
+
+<img width="805" height="565" alt="Image" src="https://github.com/user-attachments/assets/4766e78b-4a50-4582-b940-c6a1e3c2c205" />
+
+Recommendation 3: MTA should consider hiring more conductors or expanding track capacity to reduce cancellations during peak hours, ensuring more trains can complete their routes even if delays occur on one track.
+
+<img width="882" height="572" alt="Image" src="https://github.com/user-attachments/assets/5a2f2507-7d4e-4422-88ae-8b6c18f54bb2" />
+
+Recommendation 4: MTA should prepare in advance for potential weather-related disruptions during AM peak hours, such as adjusting staffing or operational plans, to reduce delays and improve service during rush hour.
+
+<img width="1040" height="613" alt="Image" src="https://github.com/user-attachments/assets/05787bcd-fc79-4fdb-beae-32394b746c40" />
